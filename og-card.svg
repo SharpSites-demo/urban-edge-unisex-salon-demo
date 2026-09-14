@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fbff38"/>
+  <circle cx="1045" cy="95" r="250" fill="#5c3dff" opacity=".55"/>
+  <rect x="58" y="58" width="1084" height="514" rx="32" fill="#ffffff" stroke="#ff3d81" stroke-width="6"/>
+  <text x="104" y="140" fill="#ff3d81" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700" letter-spacing="4">HAIR, SPA AND MAKEUP SALON</text>
+  <text x="104" y="250" fill="#161616" font-family="Arial,Helvetica,sans-serif" font-size="78" font-weight="800">Urban Edge Unisex Salon</text>
+  <text x="104" y="530" fill="#161616" opacity=".7" font-family="Arial,Helvetica,sans-serif" font-size="26">Services, details and direct enquiries</text>
+</svg>
